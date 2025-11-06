@@ -31,12 +31,9 @@ Sou autodidata, disciplinado e movido pelo aprendizado contínuo e pela criaçã
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 
 ### 🗄️ **Bancos de Dados**
-
-
  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
 
 
 ### 🧰 **Ferramentas**
@@ -49,9 +46,21 @@ Sou autodidata, disciplinado e movido pelo aprendizado contínuo e pela criaçã
 # Painel
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrovilar&hide_progress=orange_icons=true&theme=transparent)
 
+## 💬 Languages
+
+🇧🇷 Português — Nativo<br/>
+🇫🇷 Francês — Nível A2 (em curso)<br/>
+🇺🇸 Inglês — Leitura técnica básica (em curso)
+
 # Contato
   <a href="https://www.linkedin.com/in/leandrovilar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/leandrovilar.dev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leandrovilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
+
+ 
+## “Disciplina e constância superam o talento.” — Leandro
+
+
 
