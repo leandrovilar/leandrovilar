@@ -43,24 +43,22 @@ Sou autodidata, disciplinado e movido pelo aprendizado contínuo e pela criaçã
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-# Painel
+### 📊 Painel
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrovilar&hide_progress=orange_icons=true&theme=transparent)
 
-## 💬 Languages
-
+### 💬 Línguas
 🇧🇷 Português — Nativo<br/>
 🇫🇷 Francês — Nível A2 (em curso)<br/>
 🇺🇸 Inglês — Leitura técnica básica (em curso)
 
-# Contato
+### 📇 Contato
   <a href="https://www.linkedin.com/in/leandrovilar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/leandrovilar.dev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leandrovilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
  
-## “Disciplina e constância superam o talento.” — Leandro
+## 🧠 “Disciplina e constância superam o talento.” — Leandro
 
 
 
