@@ -4,7 +4,7 @@
 Olá! Sou Leandro, desenvolvedor backend# focado em C# e .NET. 🎯
 Tenho formação em Análise e Desenvolvimento de Sistemas e experiência prática com APIs RESTful, Entity Framework Core e MySQL.
 
-Atualmente, estou aprimorando meus projetos e estudos em arquitetura backend, boas práticas de código e performance de aplicações, com o objetivo de atuar como desenvolvedor .NET — especialmente no Canadá (Québec). 🇨🇦
+Atualmente, estou aprimorando meus projetos e estudos em arquitetura backend, boas práticas de código e performance de aplicações, com o objetivo de atuar como desenvolvedor .NET.
 
 Sou autodidata, disciplinado e movido pelo aprendizado contínuo e pela criação de soluções simples e eficientes. ⚙️
 
